@@ -118,13 +118,5 @@ This project helps in understanding:
 
 ## Author
 
-**Karthik Tirumalasetti**
+**Tirumalasetti Venkata Karthik**
 
-GitHub:
-https://github.com/Karthik35k
-
----
-
-## License
-
-This project is created for learning and educational purposes.
